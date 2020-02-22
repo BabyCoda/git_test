@@ -1,0 +1,1 @@
+This is Shenae's first git project!
